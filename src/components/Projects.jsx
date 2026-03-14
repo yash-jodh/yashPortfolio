@@ -55,8 +55,8 @@ const PROJECTS = [
     accentColor: '#c8a45a',
     lines: 'circles',
     icon: '⚡',
-    liveUrl: 'https://yashjodh.vercel.app',             
-    githubUrl: 'https://github.com/yashjodh/portfolio', 
+    liveUrl: 'https://yash-portfolio-eight-theta.vercel.app',             
+    githubUrl: 'https://github.com/yash-jodh/yashPortfolio', 
   },
   {
     id: '04',
